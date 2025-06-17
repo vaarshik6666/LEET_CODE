@@ -18,4 +18,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vaarshik6666/LEET_CODE/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/vaarshik6666/LEET_CODE/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/vaarshik6666/LEET_CODE/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vaarshik6666/LEET_CODE/tree/master/0001-two-sum) |
 | [0948-sort-an-array](https://github.com/vaarshik6666/LEET_CODE/tree/master/0948-sort-an-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/vaarshik6666/LEET_CODE/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/vaarshik6666/LEET_CODE/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/vaarshik6666/LEET_CODE/tree/master/0948-sort-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/vaarshik6666/LEET_CODE/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

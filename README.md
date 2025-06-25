@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vaarshik6666/LEET_CODE/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/vaarshik6666/LEET_CODE/tree/master/0007-reverse-integer) |
 | [0263-ugly-number](https://github.com/vaarshik6666/LEET_CODE/tree/master/0263-ugly-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/vaarshik6666/LEET_CODE/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/vaarshik6666/LEET_CODE/tree/master/3371-harshad-number) |

@@ -61,12 +61,15 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/vaarshik6666/LEET_CODE/tree/master/0948-sort-an-array) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/vaarshik6666/LEET_CODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vaarshik6666/LEET_CODE/tree/master/0001-two-sum) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/vaarshik6666/LEET_CODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/vaarshik6666/LEET_CODE/tree/master/0008-string-to-integer-atoi) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/vaarshik6666/LEET_CODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
